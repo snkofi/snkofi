@@ -8,8 +8,8 @@
 </div>
 <h3> 😸 &nbsp;Sobre mim: </h3>
   
-- 🧑‍🎓 intermediário na área.
-- 🔥 Dev BackEnd.
+- 🧑‍🎓 Médio na área.
+- 🔥 Dev BackEnd e FrontEnd.
 - 😼 Focado em aprender.
 - 👩🏻‍💻 Aprimorando minhas habilidades em **```Java,JavaScript,Python,C#,C++,TypeScript,Kotlin,Blender,Zbrush,UE4/5,IA```**.
 - 📍 Localização: <img width="2%" height="2%" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png">
